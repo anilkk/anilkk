@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anil Kumar
 - 👀 I’m interested in developer experience. 
-- 🌱 I’m currently learning Storytelling. 
+- 🌱 I’m passionate about Storytelling. 
 - 💞️ I’m looking to collaborate on developer experience, usability and community building.
 - 📫 How to reach me? Twitter: [@anilbms75](https://www.twitter.com/anilbms75)
 
